@@ -1,6 +1,9 @@
 # Project-customer-segmentation
 ### Clustering Project
 
+<img src="https://github.com/jatin090/Project-customer-segmentation/blob/main/clusters.gif" width="70%"/>
+The main aim was to find out the optimum number of clusters with the customers data in hand.
+
 ### After exploring, I have cleaned the dataset and chose only a few features which was important in order to carry out the training 
 
 There were 8 features in total, from which we have extracted 3 only
